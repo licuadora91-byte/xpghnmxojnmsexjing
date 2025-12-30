@@ -1,0 +1,102 @@
+[23:25:17] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[23:25:17] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) for Minecraft 1.21.10
+[23:25:17] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:25:18] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[23:25:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[23:25:27] [ServerMain/INFO]: Loaded 1461 recipes
+[23:25:27] [ServerMain/INFO]: Loaded 1574 advancements
+[23:25:27] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[23:25:28] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 438.1ms
+[23:25:28] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[23:25:28] [Server thread/INFO]: Loading properties
+[23:25:28] [Server thread/INFO]: This server is running Paper version 1.21.10-117-ver/1.21.10@df4b668 (2025-11-30T22:37:28Z) (Implementing API version 1.21.10-R0.1-SNAPSHOT)
+[23:25:28] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:25:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:25:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:25:29] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:25:30] [Server thread/INFO]: Default game type: SURVIVAL
+[23:25:30] [Server thread/INFO]: Generating keypair
+[23:25:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:25:30] [Server thread/INFO]: Using epoll channel type
+[23:25:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:25:30] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[23:25:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:25:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:25:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:25:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:25:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:25:30] [Server thread/INFO]: Preparing level "world"
+[23:25:30] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[23:25:30] [Server thread/INFO]: Prepared spawn area in 1 ms
+[23:25:30] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[23:25:30] [Server thread/INFO]: Prepared spawn area in 1 ms
+[23:25:30] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[23:25:30] [Server thread/INFO]: Prepared spawn area in 1 ms
+[23:25:30] [Server thread/INFO]: Done preparing level "world" (0.636s)
+[23:25:31] [Server thread/INFO]: [spark] Starting background profiler...
+[23:25:31] [Server thread/INFO]: Running delayed init tasks
+[23:25:31] [Server thread/INFO]: Done (15.905s)! For help, type "help"
+[23:25:45] [User Authenticator #0/INFO]: UUID of player Neo_profeci is a143b7f1-e154-3751-9325-6f89ab059d43
+[23:25:50] [User Authenticator #0/INFO]: UUID of player TomanoMC is aae909ca-8c1a-3db0-819a-ff5f1fb6b09e
+[23:25:52] [User Authenticator #0/INFO]: UUID of player sinergias is e09bc419-daa7-3bce-831f-5ec62030ef09
+[23:26:04] [Server thread/INFO]: [ADMIN] Neo_profeci joined the game
+[23:26:04] [Server thread/INFO]: Neo_profeci[/127.5.125.9:59591] logged in with entity id 117 at ([world]3402.8407615884544, 63.0, -621.2008626174361)
+[23:26:08] [Server thread/INFO]: [OWNER] TomanoMC joined the game
+[23:26:08] [Server thread/INFO]: TomanoMC[/127.53.56.30:55695] logged in with entity id 216 at ([world]19703.236689393074, 66.24918707874468, -9200.038446610446)
+[23:26:08] [Server thread/INFO]: [MIEMBRO] sinergias joined the game
+[23:26:08] [Server thread/INFO]: sinergias[/127.53.215.97:45627] logged in with entity id 221 at ([world]1337.300000011921, 63.0, -10607.762499988079)
+[23:26:24] [Server thread/INFO]: Villager Villager['Librarian'/33, uuid='1bd4d39e-c651-4243-ab5b-d61285a40c06', l='ServerLevel[world]', x=1336.30, y=58.00, z=-10596.70, cpos=[83, -663], tl=151, v=true] died, message: 'Librarian suffocated in a wall'
+[23:26:25] [Server thread/INFO]: Villager Villager['Librarian'/37, uuid='29bf8790-25cd-4165-9451-da957f51aaa4', l='ServerLevel[world]', x=1330.49, y=58.00, z=-10604.50, cpos=[83, -663], tl=181, v=true] died, message: 'Librarian suffocated in a wall'
+[23:26:25] [Server thread/INFO]: Villager Villager['Librarian'/42, uuid='007a102c-bb9e-4a57-8bca-9fd39ee4871c', l='ServerLevel[world]', x=1330.70, y=58.00, z=-10602.30, cpos=[83, -663], tl=181, v=true] died, message: 'Librarian suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Librarian'/34, uuid='7602dff9-7eef-423c-8776-de655c78d924', l='ServerLevel[world]', x=1330.70, y=58.00, z=-10598.30, cpos=[83, -663], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/35, uuid='43260ed9-1b28-464c-ba47-ec030655c11a', l='ServerLevel[world]', x=1335.70, y=58.00, z=-10593.70, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Toolsmith'/36, uuid='35450c93-0dd8-40fc-a00c-08d005bb45f0', l='ServerLevel[world]', x=1336.46, y=58.00, z=-10602.50, cpos=[83, -663], tl=191, v=true] died, message: 'Toolsmith suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Librarian'/38, uuid='a6d4b524-5c3b-4596-8131-28c9ff16224c', l='ServerLevel[world]', x=1336.46, y=58.00, z=-10600.49, cpos=[83, -663], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/39, uuid='8c7f27f7-91e9-4056-9ece-6b813e064ad7', l='ServerLevel[world]', x=1336.30, y=58.00, z=-10593.70, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Fletcher'/40, uuid='4eb57f36-ca1e-46e5-a354-e707d7cf4f71', l='ServerLevel[world]', x=1330.49, y=58.00, z=-10596.49, cpos=[83, -663], tl=191, v=true] died, message: 'Fletcher suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Librarian'/41, uuid='61e9a00c-d297-48fe-92e2-f2d0f02c6b3a', l='ServerLevel[world]', x=1336.62, y=58.00, z=-10598.30, cpos=[83, -663], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Librarian'/43, uuid='3c3f5469-ba17-4128-87ca-2cccd8d4b4e4', l='ServerLevel[world]', x=1330.49, y=58.00, z=-10606.50, cpos=[83, -663], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Fletcher'/44, uuid='1e902915-391c-472a-91e4-aafdca71604e', l='ServerLevel[world]', x=1330.55, y=58.00, z=-10600.67, cpos=[83, -663], tl=191, v=true] died, message: 'Fletcher suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/45, uuid='fba25391-d2cc-48b9-9fda-44c5f91f416c', l='ServerLevel[world]', x=1336.30, y=60.00, z=-10593.30, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Toolsmith'/46, uuid='47ee78df-7aad-496d-bfeb-91422a0115ac', l='ServerLevel[world]', x=1336.30, y=58.00, z=-10604.30, cpos=[83, -663], tl=191, v=true] died, message: 'Toolsmith suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Toolsmith'/48, uuid='57723fc9-81c7-4688-afde-db26baa3f6f6', l='ServerLevel[world]', x=1336.51, y=58.00, z=-10606.50, cpos=[83, -663], tl=191, v=true] died, message: 'Toolsmith suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/49, uuid='f221b4bb-2b50-451b-b2bd-4b6d8294afc7', l='ServerLevel[world]', x=1335.70, y=58.00, z=-10593.70, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/50, uuid='8164bded-8882-4dba-8897-40fd1e9d604a', l='ServerLevel[world]', x=1335.70, y=58.00, z=-10593.30, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/51, uuid='d77ad0ba-4cbc-4a80-8173-4894e890708e', l='ServerLevel[world]', x=1336.70, y=59.00, z=-10593.30, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/54, uuid='27d82882-540c-4dc1-a3fc-a163a9218854', l='ServerLevel[world]', x=1336.70, y=59.00, z=-10593.30, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/55, uuid='c2ae7651-dc1b-4807-94cb-6df322d6512d', l='ServerLevel[world]', x=1336.70, y=58.00, z=-10593.30, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/56, uuid='acb51916-a05b-4fd2-b98c-4cc6d57f3534', l='ServerLevel[world]', x=1336.70, y=59.00, z=-10593.30, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/57, uuid='0b6dda85-454e-422a-abf0-590984c4bc6f', l='ServerLevel[world]', x=1335.30, y=58.00, z=-10593.30, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/59, uuid='7d0c7f2a-0314-4712-8941-c2a6aa53e8f1', l='ServerLevel[world]', x=1336.70, y=58.00, z=-10593.70, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/60, uuid='a0f85b46-0a74-41d3-bcce-ae88beb42c28', l='ServerLevel[world]', x=1336.70, y=59.00, z=-10593.70, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/61, uuid='0890eb72-f5f2-416f-8acd-b1cf063fecf5', l='ServerLevel[world]', x=1336.70, y=59.00, z=-10593.70, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/62, uuid='9ce684b8-9913-4634-8345-d6f985a867c0', l='ServerLevel[world]', x=1336.70, y=59.00, z=-10593.30, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/65, uuid='43624aa5-76c0-40ad-b5cc-ff476d924c8d', l='ServerLevel[world]', x=1335.30, y=58.00, z=-10593.70, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/66, uuid='081d48a8-1f91-4844-9f22-9780fde0f955', l='ServerLevel[world]', x=1335.15, y=59.00, z=-10593.85, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:26] [Server thread/INFO]: Villager Villager['Villager'/67, uuid='40015155-cf0d-412a-8131-e0e2116f26af', l='ServerLevel[world]', x=1335.15, y=59.00, z=-10593.15, cpos=[83, -663], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:32] [Server thread/INFO]: Villager Villager['Librarian'/108, uuid='fd402f99-dd6c-45bb-9442-46482d0ece9f', l='ServerLevel[world]', x=1336.70, y=58.00, z=-10610.70, cpos=[83, -664], tl=181, v=true] died, message: 'Librarian suffocated in a wall'
+[23:26:32] [Server thread/INFO]: Villager Villager['Farmer'/111, uuid='0c45df8f-aeaf-47a8-b2fa-c86b6ce711d6', l='ServerLevel[world]', x=1336.50, y=58.00, z=-10614.50, cpos=[83, -664], tl=191, v=true] died, message: 'Farmer suffocated in a wall'
+[23:26:32] [Server thread/INFO]: Villager Villager['Librarian'/105, uuid='acee4c2c-2c58-44ad-b036-76bf58c920c9', l='ServerLevel[world]', x=1330.49, y=58.00, z=-10608.50, cpos=[83, -664], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
+[23:26:32] [Server thread/INFO]: Villager Villager['Cleric'/106, uuid='7fca860d-9997-4cb8-b5a7-6f346a9a9184', l='ServerLevel[world]', x=1336.30, y=58.00, z=-10608.30, cpos=[83, -664], tl=191, v=true] died, message: 'Cleric suffocated in a wall'
+[23:26:32] [Server thread/INFO]: Villager Villager['Librarian'/107, uuid='846bb0af-c74f-407f-a3d4-a3b802d939c4', l='ServerLevel[world]', x=1330.51, y=58.00, z=-10610.50, cpos=[83, -664], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
+[23:26:32] [Server thread/INFO]: Villager Villager['Cartographer'/109, uuid='755a2666-0c9d-4514-b03c-b4f56e4d8153', l='ServerLevel[world]', x=1336.51, y=58.00, z=-10612.51, cpos=[83, -664], tl=191, v=true] died, message: 'Cartographer suffocated in a wall'
+[23:26:32] [Server thread/INFO]: Villager Villager['Librarian'/110, uuid='b38bdf89-f2bc-4175-90e1-4d4bf5fff945', l='ServerLevel[world]', x=1330.49, y=58.00, z=-10612.49, cpos=[83, -664], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
+[23:26:36] [Server thread/INFO]: Villager Villager['Villager'/147, uuid='05efb79b-e3db-4b2a-adec-ebf10570798c', l='ServerLevel[world]', x=19733.28, y=65.50, z=-9199.63, cpos=[1233, -575], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:36] [Server thread/INFO]: Villager Villager['Villager'/145, uuid='0bda8982-ddd4-43d0-a7ba-3a0ad7085000', l='ServerLevel[world]', x=19734.80, y=65.56, z=-9209.57, cpos=[1233, -576], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[23:26:41] [Server thread/INFO]: sinergias lost connection: Disconnected
+[23:26:41] [Server thread/INFO]: [MIEMBRO] sinergias left the game
+[23:28:40] [Server thread/INFO]: [ADMIN] Neo_profeci was slain by Zombie
+[23:29:07] [Server thread/INFO]: Villager Villager['Villager'/377, uuid='77ecea24-a5ab-4c69-9132-4d68e0de87f7', l='ServerLevel[world]', x=19673.21, y=67.56, z=-9209.03, cpos=[1229, -576], tl=2942, v=true] died, message: 'Villager was slain by Zombie'
+[23:29:23] [Server thread/INFO]: Made Neo_profeci a server operator
+[23:29:25] [Server thread/INFO]: Neo_profeci issued server command: /gamemode creative
+[23:29:25] [Server thread/INFO]: [[ADMIN] Neo_profeci: Set own game mode to Creative Mode]
+[23:29:30] [Server thread/INFO]: Neo_profeci issued server command: /op TomanoMC
+[23:29:30] [Server thread/INFO]: [[ADMIN] Neo_profeci: Made TomanoMC a server operator]
+[23:29:42] [Server thread/INFO]: TomanoMC issued server command: /gamemode creative
+[23:29:42] [Server thread/INFO]: [[OWNER] TomanoMC: Set own game mode to Creative Mode]
+[23:29:47] [Server thread/INFO]: TomanoMC issued server command: /tp Neo_profeci
+[23:29:47] [Server thread/INFO]: [[OWNER] TomanoMC: Teleported [OWNER] TomanoMC to [ADMIN] Neo_profeci]
+[23:40:16] [Server thread/INFO]: Neo_profeci lost connection: Disconnected
+[23:40:17] [Server thread/INFO]: [ADMIN] Neo_profeci left the game
+[23:40:37] [Server thread/INFO]: TomanoMC lost connection: Disconnected
+[23:40:37] [Server thread/INFO]: [OWNER] TomanoMC left the game
